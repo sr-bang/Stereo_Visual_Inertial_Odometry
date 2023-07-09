@@ -22,3 +22,10 @@ This project implements data loader and data publisher for EuRoC MAV dataset.
 `python vio.py --view --path path/to/your/EuRoC_MAV_dataset/MH_01_easy`  
 or    
 `python vio.py --path path/to/your/EuRoC_MAV_dataset/MH_01_easy` (no visualization)  
+
+## License 
+Follow [license of msckf_vio](https://github.com/KumarRobotics/msckf_vio/blob/master/LICENSE.txt).
+
+## References
+1. https://rbe549.github.io/spring2023/proj/p4/
+2. https://github.com/uoip/stereo_msckf
