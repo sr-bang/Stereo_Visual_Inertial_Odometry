@@ -24,6 +24,7 @@ or
 `python vio.py --path path/to/your/EuRoC_MAV_dataset/MH_01_easy` (no visualization)  
 
 ## Results
+#### Result for MH_01_easy dataset
 <img src="imgs/euroc_mh_01_easy.png"  align="center" alt="Undistorted" width="700"/>
 
 ## License 
